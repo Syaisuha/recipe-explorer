@@ -5,7 +5,7 @@ A lightweight recipe browsing web app built with **Next.js 15**, **TypeScript**,
 ---
 
 ## 🚀 Live Demo
-[🔗 Deployed Site](https://your-deployed-link.vercel.app)
+[🔗 Deployed Site](https://recipe-explorer-rho.vercel.app/)
 
 ---
 
